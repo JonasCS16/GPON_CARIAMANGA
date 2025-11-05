@@ -18,6 +18,7 @@ var json_SECTORES_12 = {
 { "type": "Feature", "properties": { "id": null, "NOMBRE": "LA CRUZ" }, "geometry": { "type": "Point", "coordinates": [ -79.97776765750308, -4.368507774717497 ] } },
 { "type": "Feature", "properties": { "id": null, "NOMBRE": "MACHANGUILLA" }, "geometry": { "type": "Point", "coordinates": [ -79.988525975751017, -4.345899597287089 ] } },
 { "type": "Feature", "properties": { "id": null, "NOMBRE": "LA GUATARA" }, "geometry": { "type": "Point", "coordinates": [ -79.974632892002916, -4.326269290619608 ] } },
-{ "type": "Feature", "properties": { "id": null, "NOMBRE": "Cascajal" }, "geometry": { "type": "Point", "coordinates": [ -79.591154785341331, -4.321455737280703 ] } }
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "Cascajal" }, "geometry": { "type": "Point", "coordinates": [ -79.591154785341331, -4.321455737280703 ] } },
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "Suanamaca" }, "geometry": { "type": "Point", "coordinates": [ -79.628496011815372, -4.328261504552219 ] } }
 ]
 }
