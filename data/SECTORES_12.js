@@ -20,6 +20,7 @@ var json_SECTORES_12 = {
 { "type": "Feature", "properties": { "id": null, "NOMBRE": "LA GUATARA" }, "geometry": { "type": "Point", "coordinates": [ -79.974632892002916, -4.326269290619608 ] } },
 { "type": "Feature", "properties": { "id": null, "NOMBRE": "Cascajal" }, "geometry": { "type": "Point", "coordinates": [ -79.591154785341331, -4.321455737280703 ] } },
 { "type": "Feature", "properties": { "id": null, "NOMBRE": "Suanamaca" }, "geometry": { "type": "Point", "coordinates": [ -79.628496011815372, -4.328261504552219 ] } },
-{ "type": "Feature", "properties": { "id": null, "NOMBRE": "El Tambo" }, "geometry": { "type": "Point", "coordinates": [ -79.651325511100296, -4.323559183856865 ] } }
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "El Tambo" }, "geometry": { "type": "Point", "coordinates": [ -79.651450678744126, -4.323775910396892 ] } },
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "Moras" }, "geometry": { "type": "Point", "coordinates": [ -79.662829910221348, -4.317400748068292 ] } }
 ]
 }
