@@ -22,6 +22,9 @@ var json_SECTORES_12 = {
 { "type": "Feature", "properties": { "id": null, "NOMBRE": "Suanamaca" }, "geometry": { "type": "Point", "coordinates": [ -79.628496011815372, -4.328261504552219 ] } },
 { "type": "Feature", "properties": { "id": null, "NOMBRE": "El Tambo" }, "geometry": { "type": "Point", "coordinates": [ -79.651450678744126, -4.323775910396892 ] } },
 { "type": "Feature", "properties": { "id": null, "NOMBRE": "Moras" }, "geometry": { "type": "Point", "coordinates": [ -79.662829910221348, -4.317400748068292 ] } },
-{ "type": "Feature", "properties": { "id": null, "NOMBRE": "Tablazo" }, "geometry": { "type": "Point", "coordinates": [ -79.606676147871212, -4.337552497697438 ] } }
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "Tablazo" }, "geometry": { "type": "Point", "coordinates": [ -79.606676147871212, -4.337552497697438 ] } },
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "EL TAMBO" }, "geometry": { "type": "Point", "coordinates": [ -79.307583368055049, -4.073236201168433 ] } },
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "LA CAPILLA" }, "geometry": { "type": "Point", "coordinates": [ -79.305051128442386, -4.09675989104236 ] } },
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "LA ERA" }, "geometry": { "type": "Point", "coordinates": [ -79.299079280011071, -4.127714417400937 ] } }
 ]
 }
