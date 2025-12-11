@@ -25,6 +25,9 @@ var json_SECTORES_12 = {
 { "type": "Feature", "properties": { "id": null, "NOMBRE": "Tablazo" }, "geometry": { "type": "Point", "coordinates": [ -79.606676147871212, -4.337552497697438 ] } },
 { "type": "Feature", "properties": { "id": null, "NOMBRE": "EL TAMBO" }, "geometry": { "type": "Point", "coordinates": [ -79.307583368055049, -4.073236201168433 ] } },
 { "type": "Feature", "properties": { "id": null, "NOMBRE": "LA CAPILLA" }, "geometry": { "type": "Point", "coordinates": [ -79.305051128442386, -4.09675989104236 ] } },
-{ "type": "Feature", "properties": { "id": null, "NOMBRE": "LA ERA" }, "geometry": { "type": "Point", "coordinates": [ -79.299079280011071, -4.127714417400937 ] } }
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "LA ERA" }, "geometry": { "type": "Point", "coordinates": [ -79.299079280011071, -4.127714417400937 ] } },
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "POZUL" }, "geometry": { "type": "Point", "coordinates": [ -80.053569932406035, -4.120617123397541 ] } },
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "Naranjito" }, "geometry": { "type": "Point", "coordinates": [ -80.089379704481232, -4.134156480754962 ] } },
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "Roblones" }, "geometry": { "type": "Point", "coordinates": [ -80.095535425086553, -4.138690811442352 ] } }
 ]
 }
